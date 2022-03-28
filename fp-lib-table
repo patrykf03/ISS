@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "m2ngff")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/kicad-m2ngff/m2ngff.pretty")(options "")(descr ""))
+  (lib (name "LogoSmall")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/pcbart/")(options "")(descr ""))
+  (lib (name "Connector-pat-various")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/connectors-pat-various/")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/marbastlib/marbastlib-choc.pretty")(options "")(descr ""))
+  (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/SSD1306/library/SSD1306.pretty")(options "")(descr ""))
+)
