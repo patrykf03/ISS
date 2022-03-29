@@ -130,6 +130,9 @@
     (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/02449b7f-8862-432e-81c3-a1347e8aedae"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
+    (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/8f1f7229-a366-419d-9edc-906ebbb682ab"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/8f16db36-f461-478b-b5e2-6f0c6400d0f7"
       (reference "C1") (unit 1) (value "4.7uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
@@ -346,6 +349,12 @@
     (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/e7052909-8543-4005-b89e-2d91bd4b1474"
       (reference "J6") (unit 1) (value "EPAPER RIBBON") (footprint "Connector-pat-various:100519223010ELF")
     )
+    (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/77c61447-a235-4988-932f-9ffdfa3d4772"
+      (reference "J?") (unit 1) (value "Conn_01x08") (footprint "Connector-pat-various:100519220810EHLF")
+    )
+    (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/a1ffd448-5fd7-4a6d-94bc-e33bf17d104b"
+      (reference "J?") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "")
+    )
     (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/77104e7e-d886-40d9-b85a-e96ae2b5766e"
       (reference "LO1") (unit 1) (value "TapTap Logo") (footprint "LogoSmall:tt_4mm")
     )
@@ -381,6 +390,15 @@
     )
     (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/39878562-d955-4b7e-bbe7-a787f143b36a"
       (reference "MO8") (unit 1) (value "WINDOW") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
+    )
+    (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/5dc466d0-28d3-48f7-b860-10f899766103"
+      (reference "MO?") (unit 1) (value "MOUNTING") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
+    )
+    (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/5e061ca1-26c2-4f20-80fb-ab9b34047d61"
+      (reference "MO?") (unit 1) (value "MOUNTING") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
+    )
+    (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/88a6ab3c-510e-432b-9074-7a680b804db5"
+      (reference "MO?") (unit 1) (value "MOUNTING") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
     )
     (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/2214e04b-2f9b-4024-bf5b-496fa20a8c77"
       (reference "MX_SW1") (unit 1) (value "GESC") (footprint "marbastlib-mx:SW_MX_HS_1u")
@@ -489,6 +507,9 @@
     )
     (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/88535f27-55eb-4f92-a5b1-1806e72e8b41"
       (reference "U1") (unit 1) (value "XC6206P332MR") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/3a550008-49e7-4ec8-8229-9429a6d67751"
+      (reference "U?") (unit 1) (value "SRV05-4") (footprint "marbastlib-various:SOT-23-6-routable")
     )
     (path "/45f64c55-60ad-4d00-ad5a-9e014744584f/49414c2a-ee95-47bb-8ff1-c06f25b6c5b7"
       (reference "UG1") (unit 1) (value "WS2812_2020") (footprint "marbastlib-various:LED_WS2812_2020")
