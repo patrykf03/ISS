@@ -6,4 +6,5 @@
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
   (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/marbastlib/marbastlib-choc.pretty")(options "")(descr ""))
   (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/SSD1306/library/SSD1306.pretty")(options "")(descr ""))
+  (lib (name "silk")(type "KiCad")(uri "${KIPRJMOD}/silk")(options "")(descr ""))
 )

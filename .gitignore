@@ -27,4 +27,5 @@ fp-info-cache
 # kicad backups
 ISS-backups/
 
-
+# svg2shenzhen
+silk/.svg2shenzhen-cache/

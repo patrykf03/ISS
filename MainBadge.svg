@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30mm"
+   height="20mm"
+   viewBox="0 0 30 20"
+   version="1.1"
+   id="svg1367"
+   sodipodi:docname="MainBadge.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1369"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="43.487067"
+     inkscape:cy="21.213203"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1557" />
+  <defs
+     id="defs1364" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g1555"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:0.75;font-family:'disket mono';-inkscape-font-specification:'disket mono';display:inline;fill:#0086c1;stroke-width:0.188782"
+       x="-0.1587501"
+       y="3.7782524"
+       id="text997-1-0-1"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0086c1;stroke-width:0.188782"
+         x="-0.1587501"
+         y="3.7782524"
+         id="tspan1049-9-6-2">ISS</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0086c1;stroke-width:0.188782"
+         x="-0.1587501"
+         y="6.73595"
+         id="tspan995-7" /><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0086c1;stroke-width:0.188782"
+         x="-0.1587501"
+         y="9.4841785"
+         id="tspan406-0" /></text>
+  </g>
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g1557"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:0.75;font-family:'disket mono';-inkscape-font-specification:'disket mono';display:inline;fill:#0086c1;stroke-width:0.188782"
+       x="-0.1587501"
+       y="3.7782524"
+       id="text997-1-0"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0086c1;stroke-width:0.188782"
+         x="-0.1587501"
+         y="3.7782524"
+         id="tspan1049-9-6">ISS</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0086c1;stroke-width:0.188782"
+         x="-0.1587501"
+         y="6.7359505"
+         id="tspan995" /><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0086c1;stroke-width:0.188782"
+         x="-0.1587501"
+         y="9.4841785"
+         id="tspan406" /></text>
+  </g>
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g1559"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:0.75;font-family:'disket mono';-inkscape-font-specification:'disket mono';display:inline;fill:#000000;fill-opacity:1;stroke-width:0.188782"
+       x="-0.0063499999"
+       y="3.2744827"
+       id="text997-1-0-7"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.188782"
+         x="-0.0063499999"
+         y="3.2744827"
+         id="tspan1049-9-6-5" /><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.188782"
+         x="-0.0063499999"
+         y="6.1483922"
+         id="tspan995-3" /><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.188782"
+         x="-0.0063499999"
+         y="8.8966208"
+         id="tspan400-5">International</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.188782"
+         x="-0.0063499999"
+         y="11.602955"
+         id="tspan402-6">Standard Split</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.188782"
+         x="-0.0063499999"
+         y="14.309289"
+         id="tspan404-2" /><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.188782"
+         x="-0.0063499999"
+         y="17.057518"
+         id="tspan406-9">Designed by <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold Italic'"
+   id="tspan1105">Pat</tspan></tspan></text>
+  </g>
+</svg>
